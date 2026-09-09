@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Visual Studio
+.vs/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Results / temporary output
+output/
+results/
+
+# Large experimental data
+*.wav
+*.mp4
